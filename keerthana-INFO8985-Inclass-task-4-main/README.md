@@ -51,4 +51,5 @@ global.clusterName: Your cluster identifier
 global.deploymentEnvironment: Environment name
 
 Teardown
+
 ansible-playbook down.yml

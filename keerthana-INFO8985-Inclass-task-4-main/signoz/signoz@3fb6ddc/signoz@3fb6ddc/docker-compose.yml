@@ -1,0 +1,4 @@
+include:
+  - ./docker/docker-compose.yml
+  - ./signoz/deploy/docker/docker-compose.yaml
+  
